@@ -6,11 +6,11 @@
       "arrival_times": [
         "09:00:00"
       ],
-      "departure_range": [
+      "homebound_departure_time_range": [
         "16:16:00",
         "18:30:00"
       ],
-      "samples": 15,
+      "samples_per_day": 15,
       "weekdays": [
         0,
         1,
@@ -27,11 +27,11 @@
         "09:00:00",
         "10:30:00"
       ],
-      "departure_range": [
+      "homebound_departure_time_range": [
         "11:11:00",
         "13:00:00"
       ],
-      "samples": 7,
+      "samples_per_day": 7,
       "weekdays": [
         6
       ]
@@ -40,15 +40,15 @@
       "name": "anna_weekdays",
       "address": "10926 Jollyville Rd, Austin, TX 78759",
       "expected_times_per_week": 3.5,
-      "arrival_range": [
+      "outbound_departure_time_range": [
         "16:16:00",
         "20:30:00"
       ],
-      "departure_range": [
+      "homebound_departure_time_range": [
         "21:20:00",
         "23:59:00"
       ],
-      "samples": 18,
+      "samples_per_day": 18,
       "weekdays": [
         0,
         1,
@@ -61,15 +61,15 @@
       "name": "anna_weekends",
       "address": "10926 Jollyville Rd, Austin, TX 78759",
       "expected_times_per_week": 3.5,
-      "arrival_range": [
+      "outbound_departure_time_range": [
         "09:09:00",
         "14:00:00"
       ],
-      "departure_range": [
+      "homebound_departure_time_range": [
         "13:13:00",
         "23:59:00"
       ],
-      "samples": 6,
+      "samples_per_day": 6,
       "weekdays": [
         5,
         6
@@ -79,15 +79,15 @@
       "name": "gt_weekdays",
       "address": "2300 Hancock Dr, Austin, TX 78756",
       "expected_times_per_week": 0.75,
-      "arrival_range": [
+      "outbound_departure_time_range": [
         "16:16:00",
         "17:30:00"
       ],
-      "departure_range": [
+      "homebound_departure_time_range": [
         "21:00:00",
         "23:59:00"
       ],
-      "samples": 6,
+      "samples_per_day": 6,
       "weekdays": [
         0,
         1,
@@ -100,15 +100,15 @@
       "name": "gt_weekends",
       "address": "2300 Hancock Dr, Austin, TX 78756",
       "expected_times_per_week": 0.75,
-      "arrival_range": [
+      "outbound_departure_time_range": [
         "10:45:00",
         "14:00:00"
       ],
-      "departure_range": [
+      "homebound_departure_time_range": [
         "13:13:00",
         "23:59:00"
       ],
-      "samples": 3,
+      "samples_per_day": 3,
       "weekdays": [
         5,
         6
@@ -121,11 +121,11 @@
       "arrival_times": [
         "19:00:00"
       ],
-      "departure_range": [
+      "homebound_departure_time_range": [
         "21:00:00",
         "21:30:00"
       ],
-      "samples": 8,
+      "samples_per_day": 8,
       "weekdays": [
         1
       ]
@@ -134,15 +134,15 @@
       "name": "airport",
       "address": "3600 Presidential Blvd, Austin, TX 78719",
       "expected_times_per_week": 3.2,
-      "arrival_range": [
+      "outbound_departure_time_range": [
         "04:00:00",
         "23:59:00"
       ],
-      "departure_range": [
+      "homebound_departure_time_range": [
         "04:00:00",
         "23:59:00"
       ],
-      "samples": 4,
+      "samples_per_day": 4,
       "weekdays": [
         0,
         1,
