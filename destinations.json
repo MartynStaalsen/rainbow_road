@@ -3,11 +3,10 @@
       "name": "work",
       "address": "444 E St. Elmo Rd, Austin, TX 78745",
       "expected_times_per_week": 5,
-      "there_time_range": [
-        "08:30:00",
-        "09:30:00"
+      "arrival_times": [
+        "09:00:00"
       ],
-      "back_time_range": [
+      "departure_range": [
         "16:16:00",
         "18:30:00"
       ],
@@ -24,11 +23,11 @@
       "name": "church",
       "address": "2000 Justin Ln, Austin, TX 78757",
       "expected_times_per_week": 1.333,
-      "there_time_range": [
-        "10:30:00",
-        "11:15:00"
+      "arrival_times": [
+        "09:00:00",
+        "10:30:00"
       ],
-      "back_time_range": [
+      "departure_range": [
         "11:11:00",
         "13:00:00"
       ],
@@ -41,11 +40,11 @@
       "name": "anna_weekdays",
       "address": "10926 Jollyville Rd, Austin, TX 78759",
       "expected_times_per_week": 3.5,
-      "there_time_range": [
+      "arrival_range": [
         "16:16:00",
         "20:30:00"
       ],
-      "back_time_range": [
+      "departure_range": [
         "21:20:00",
         "23:59:00"
       ],
@@ -62,11 +61,11 @@
       "name": "anna_weekends",
       "address": "10926 Jollyville Rd, Austin, TX 78759",
       "expected_times_per_week": 3.5,
-      "there_time_range": [
+      "arrival_range": [
         "09:09:00",
         "14:00:00"
       ],
-      "back_time_range": [
+      "departure_range": [
         "13:13:00",
         "23:59:00"
       ],
@@ -80,11 +79,11 @@
       "name": "gt_weekdays",
       "address": "2300 Hancock Dr, Austin, TX 78756",
       "expected_times_per_week": 0.75,
-      "there_time_range": [
+      "arrival_range": [
         "16:16:00",
         "17:30:00"
       ],
-      "back_time_range": [
+      "departure_range": [
         "21:00:00",
         "23:59:00"
       ],
@@ -101,11 +100,11 @@
       "name": "gt_weekends",
       "address": "2300 Hancock Dr, Austin, TX 78756",
       "expected_times_per_week": 0.75,
-      "there_time_range": [
+      "arrival_range": [
         "10:45:00",
         "14:00:00"
       ],
-      "back_time_range": [
+      "departure_range": [
         "13:13:00",
         "23:59:00"
       ],
@@ -119,11 +118,10 @@
       "name": "small_group",
       "address": "1200 E Parmer Ln Austin, TX 78753",
       "expected_times_per_week": 1,
-      "there_time_range": [
-        "19:00:00",
-        "19:30:00"
+      "arrival_times": [
+        "19:00:00"
       ],
-      "back_time_range": [
+      "departure_range": [
         "21:00:00",
         "21:30:00"
       ],
@@ -136,11 +134,11 @@
       "name": "airport",
       "address": "3600 Presidential Blvd, Austin, TX 78719",
       "expected_times_per_week": 3.2,
-      "there_time_range": [
+      "arrival_range": [
         "04:00:00",
         "23:59:00"
       ],
-      "back_time_range": [
+      "departure_range": [
         "04:00:00",
         "23:59:00"
       ],
