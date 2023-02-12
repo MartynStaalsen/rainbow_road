@@ -4,11 +4,11 @@
       "address": "443 E St. Elmo Rd, Austin, TX 78745",
       "expected_times_per_week": 5,
       "arrival_times": [
-        "21:35:00"
+        "20:35:00"
       ],
       "homebound_departure_time_range": [
-        "21:30:00",
-        "21:50:00"
+        "13:20:00",
+        "13:40:00"
       ],
       "samples_per_day": 2,
       "weekdays": [

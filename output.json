@@ -1,1 +1,1 @@
-{"2901 Barton Skyway, Austin, TX 78746": {"work": {"theoretical_departure_time": "20:27:30", "outbound_query_times": [], "homebound_query_times": []}, "443 E St. Elmo Rd, Austin, TX 78745": {
+{"2901 Barton Skyway, Austin, TX 78746": {"work": {"theoretical_departure_time": "20:27:30", "outbound_query_times": ["20:26:36", "20:27:30", "20:52:14"], "homebound_query_times": ["20:47:59", "20:49:49"]}, "443 E St. Elmo Rd, Austin, TX 78745": {}}}
